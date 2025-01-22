@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript output (compiled JavaScript)
+dist/
+build/
+
+# Yarn lock file - if you use a different dependency manager for deployment or testing
+*.yarn-cache/
+
+# TypeScript declaration files
+*.d.ts
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
